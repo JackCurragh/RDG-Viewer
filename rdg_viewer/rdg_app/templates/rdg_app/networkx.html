@@ -1,8 +1,18 @@
-
-
-{% extends "rdg_app/base.html" %}
+{% extends 'rdg_app/base.html' %}
 
 {% block content %}
-  <h1>NetworkX Visualization</h1>
-  <img src="{{ networkx_image }}" alt="NetworkX Graph" />
+<div class="row">
+  <div class="col-md-12">
+    {{ page_title|title }}
+    <hr>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <div id="chart">
+      {{ chart|safe }}
+    </div>
+  </div>
+</div>
 {% endblock %}
