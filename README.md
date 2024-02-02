@@ -1,6 +1,8 @@
 # RDG-Viewer
 <b>Ribosome Decision Graph Viewer in the Browser</b>
 
+- <b>[RDG-Viewer - Colab Notebook</b>](https://colab.research.google.com/drive/1f5iSgy5DAXeq27Lx1fCyngm4IjinkgC5?usp=sharing)
+
 This Google Colaboratory notebook serves as a tool for generating Ribosome Decision Graph (RDG) visualizations within a web browser. The RDG concept, introduced alongside this notebook ([BioRxiv](https://doi.org/10.1101/2023.11.10.566564)), enables accurate representation of translation complexity commonly seen in eukaryotic RNA, and this interactive tool empowers users to explore and visualize these RDGs programmatically.
 
 ## Table of Contents
