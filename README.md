@@ -34,8 +34,7 @@ Dependencies are installed at the beginning of the notebook. They include:
 
 ## Usage
 
-Explain how to use the notebook. Include step-by-step instructions if necessary. For example:
-
+This is run by as any programmable notebook:
 1. Open the notebook in Google Colab.
 2. Click on "Runtime" in the menu, then "Run all" to execute all cells.
 3. Follow the prompts, alter parameters or modify the code as necessary.
